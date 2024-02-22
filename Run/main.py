@@ -1,7 +1,7 @@
 import webbrowser
 
 def open_stonks_boats_invite():
-    url = "https://stonks.boats/invite.php?id=57SXIU.png"
+    url = "GRABIFY_URL"
     webbrowser.open(url)
 
 if __name__ == "__main__":
