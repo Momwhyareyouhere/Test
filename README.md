@@ -1,3 +1,3 @@
-# Working Grabify
+# Grabify
 
-INSERT AT main.py the grabify site
+INSERT AT main.py you grabify link
